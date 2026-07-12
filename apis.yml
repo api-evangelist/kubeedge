@@ -37,6 +37,8 @@ apis:
       - Edge
       - IoT
 common:
+  - type: DomainSecurity
+    url: security/kubeedge-domain-security.yml
   - type: Documentation
     name: KubeEdge Documentation
     description: Official KubeEdge documentation.
@@ -45,6 +47,8 @@ common:
     name: KubeEdge GitHub
     description: Source code repository.
     url: https://github.com/kubeedge/kubeedge
+  - url: https://kubeedge.io/blog/rss.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
