@@ -22,6 +22,12 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/kubeedge.png
 tags:
+  - Cloud-Native
+  - Edge Computing
+  - Graduated
+  - IoT
+  - Kubernetes
+tags_raw:
   - Cloud Native
   - Edge Computing
   - Graduated
