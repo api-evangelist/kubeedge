@@ -66,6 +66,8 @@ apis:
       - Edge
       - IoT
 common:
+  - type: Website
+    url: https://www.kubeedge.io/
   - type: DomainSecurity
     url: security/kubeedge-domain-security.yml
   - type: Documentation
