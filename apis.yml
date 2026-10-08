@@ -69,6 +69,12 @@ apis:
       - Edge
       - IoT
 common:
+  - type: Plans
+    url: plans/kubeedge-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/kubeedge-rate-limits.yml
+  - type: FinOps
+    url: finops/kubeedge-finops.yml
   - type: Website
     url: https://www.kubeedge.io/
   - type: DomainSecurity
